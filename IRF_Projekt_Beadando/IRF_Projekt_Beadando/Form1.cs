@@ -16,5 +16,24 @@ namespace IRF_Projekt_Beadando
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void openWriteFileButton_Click(object sender, EventArgs e)
+        {
+            WriteFile file = new WriteFile();
+            file.ShowDialog();
+            this.Close();
+        }
+
+        private void importDataButton_Click(object sender, EventArgs e)
+        {
+            ReadFile file = new ReadFile();
+            file.ShowDialog();
+            this.Close();
+        }
     }
 }

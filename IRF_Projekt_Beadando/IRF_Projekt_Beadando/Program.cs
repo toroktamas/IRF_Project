@@ -16,7 +16,7 @@ namespace IRF_Projekt_Beadando
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new ReadFile());
         }
     }
 }
