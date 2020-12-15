@@ -1,0 +1,12 @@
+C:\Repo\IRF_Beadando\IRF_Projekt_Beadando\IRF_Projekt_Beadando\bin\Debug\IRF_Projekt_Beadando.exe.config
+C:\Repo\IRF_Beadando\IRF_Projekt_Beadando\IRF_Projekt_Beadando\bin\Debug\IRF_Projekt_Beadando.exe
+C:\Repo\IRF_Beadando\IRF_Projekt_Beadando\IRF_Projekt_Beadando\bin\Debug\IRF_Projekt_Beadando.pdb
+C:\Repo\IRF_Beadando\IRF_Projekt_Beadando\IRF_Projekt_Beadando\obj\Debug\IRF_Projekt_Beadando.csprojAssemblyReference.cache
+C:\Repo\IRF_Beadando\IRF_Projekt_Beadando\IRF_Projekt_Beadando\obj\Debug\IRF_Projekt_Beadando.Form1.resources
+C:\Repo\IRF_Beadando\IRF_Projekt_Beadando\IRF_Projekt_Beadando\obj\Debug\IRF_Projekt_Beadando.Properties.Resources.resources
+C:\Repo\IRF_Beadando\IRF_Projekt_Beadando\IRF_Projekt_Beadando\obj\Debug\IRF_Projekt_Beadando.csproj.GenerateResource.cache
+C:\Repo\IRF_Beadando\IRF_Projekt_Beadando\IRF_Projekt_Beadando\obj\Debug\IRF_Projekt_Beadando.csproj.CoreCompileInputs.cache
+C:\Repo\IRF_Beadando\IRF_Projekt_Beadando\IRF_Projekt_Beadando\obj\Debug\IRF_Projekt_Beadando.exe
+C:\Repo\IRF_Beadando\IRF_Projekt_Beadando\IRF_Projekt_Beadando\obj\Debug\IRF_Projekt_Beadando.pdb
+C:\Repo\IRF_Beadando\IRF_Projekt_Beadando\IRF_Projekt_Beadando\obj\Debug\IRF_Projekt_Beadando.ReadFile.resources
+C:\Repo\IRF_Beadando\IRF_Projekt_Beadando\IRF_Projekt_Beadando\obj\Debug\IRF_Projekt_Beadando.WriteFile.resources
