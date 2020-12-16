@@ -31,10 +31,8 @@
             this.openFileDialogPathText = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.writeWithSaveFileDialog = new System.Windows.Forms.Button();
-            this.openFilePath = new System.Windows.Forms.TextBox();
             this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
             this.saveButton = new System.Windows.Forms.Button();
             this.backButton = new System.Windows.Forms.Button();
@@ -43,7 +41,7 @@
             // openFileDialogPathText
             // 
             this.openFileDialogPathText.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.openFileDialogPathText.Location = new System.Drawing.Point(258, 195);
+            this.openFileDialogPathText.Location = new System.Drawing.Point(282, 132);
             this.openFileDialogPathText.Name = "openFileDialogPathText";
             this.openFileDialogPathText.ReadOnly = true;
             this.openFileDialogPathText.Size = new System.Drawing.Size(195, 29);
@@ -53,7 +51,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label4.Location = new System.Drawing.Point(154, 195);
+            this.label4.Location = new System.Drawing.Point(183, 135);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(98, 24);
             this.label4.TabIndex = 15;
@@ -63,21 +61,11 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label3.Location = new System.Drawing.Point(38, 160);
+            this.label3.Location = new System.Drawing.Point(38, 84);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(116, 24);
             this.label3.TabIndex = 14;
             this.label3.Text = "Fájl tallózása";
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label2.Location = new System.Drawing.Point(38, 74);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(214, 24);
-            this.label2.TabIndex = 13;
-            this.label2.Text = "Fájl elérési út megadása";
             // 
             // label1
             // 
@@ -92,25 +80,18 @@
             // writeWithSaveFileDialog
             // 
             this.writeWithSaveFileDialog.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.writeWithSaveFileDialog.Location = new System.Drawing.Point(42, 187);
+            this.writeWithSaveFileDialog.Location = new System.Drawing.Point(42, 124);
             this.writeWithSaveFileDialog.Name = "writeWithSaveFileDialog";
             this.writeWithSaveFileDialog.Size = new System.Drawing.Size(96, 47);
             this.writeWithSaveFileDialog.TabIndex = 11;
             this.writeWithSaveFileDialog.Text = "Kiíratás";
             this.writeWithSaveFileDialog.UseVisualStyleBackColor = true;
-            // 
-            // openFilePath
-            // 
-            this.openFilePath.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.openFilePath.Location = new System.Drawing.Point(42, 101);
-            this.openFilePath.Name = "openFilePath";
-            this.openFilePath.Size = new System.Drawing.Size(280, 29);
-            this.openFilePath.TabIndex = 10;
+            this.writeWithSaveFileDialog.Click += new System.EventHandler(this.writeWithSaveFileDialog_Click);
             // 
             // saveButton
             // 
             this.saveButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.saveButton.Location = new System.Drawing.Point(115, 258);
+            this.saveButton.Location = new System.Drawing.Point(116, 216);
             this.saveButton.Name = "saveButton";
             this.saveButton.Size = new System.Drawing.Size(88, 50);
             this.saveButton.TabIndex = 18;
@@ -121,7 +102,7 @@
             // backButton
             // 
             this.backButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.backButton.Location = new System.Drawing.Point(282, 258);
+            this.backButton.Location = new System.Drawing.Point(282, 216);
             this.backButton.Name = "backButton";
             this.backButton.Size = new System.Drawing.Size(88, 50);
             this.backButton.TabIndex = 19;
@@ -139,10 +120,8 @@
             this.Controls.Add(this.openFileDialogPathText);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.writeWithSaveFileDialog);
-            this.Controls.Add(this.openFilePath);
             this.Name = "WriteFile";
             this.Text = "WriteFile";
             this.ResumeLayout(false);
@@ -154,10 +133,8 @@
         private System.Windows.Forms.TextBox openFileDialogPathText;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button writeWithSaveFileDialog;
-        private System.Windows.Forms.TextBox openFilePath;
         private System.Windows.Forms.SaveFileDialog saveFileDialog1;
         private System.Windows.Forms.Button saveButton;
         private System.Windows.Forms.Button backButton;

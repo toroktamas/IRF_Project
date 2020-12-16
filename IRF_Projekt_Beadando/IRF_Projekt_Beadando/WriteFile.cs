@@ -29,5 +29,10 @@ namespace IRF_Projekt_Beadando
             form1.ShowDialog();
             this.Close();
         }
+
+        private void writeWithSaveFileDialog_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
