@@ -1,0 +1,1043 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<Kod>CH0741</Kod>
+		<Elado>Christy  Olson</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>7</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>1</SzobakSzama>
+		<Alapterulet>33</Alapterulet>
+		<Ar>7,5</Ar>
+	</record>
+	<record>
+		<Kod>DA0744</Kod>
+		<Elado>Dan  Peterson</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>7</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>3,5</SzobakSzama>
+		<Alapterulet>97</Alapterulet>
+		<Ar>29,9</Ar>
+	</record>
+	<record>
+		<Kod>MA0937</Kod>
+		<Elado>Mable  Lindsey</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>9</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>2,5</SzobakSzama>
+		<Alapterulet>73</Alapterulet>
+		<Ar>23,8</Ar>
+	</record>
+	<record>
+		<Kod>KY0938</Kod>
+		<Elado>Kyle  Carr</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>9</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>2</SzobakSzama>
+		<Alapterulet>62</Alapterulet>
+		<Ar>14,8</Ar>
+	</record>
+	<record>
+		<Kod>RA2068</Kod>
+		<Elado>Rachel  Gomez</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>20</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>3</SzobakSzama>
+		<Alapterulet>90</Alapterulet>
+		<Ar>25</Ar>
+	</record>
+	<record>
+		<Kod>IS0925</Kod>
+		<Elado>Isabel  Cross</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>9</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>1</SzobakSzama>
+		<Alapterulet>49</Alapterulet>
+		<Ar>15</Ar>
+	</record>
+	<record>
+		<Kod>BI0711</Kod>
+		<Elado>Billie  Chandler</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>7</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>2</SzobakSzama>
+		<Alapterulet>83</Alapterulet>
+		<Ar>18</Ar>
+	</record>
+	<record>
+		<Kod>SY1256</Kod>
+		<Elado>Sylvester  Morales</Elado>
+		<Oldal>Buda</Oldal>
+		<Kerulet>12</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>3</SzobakSzama>
+		<Alapterulet>91</Alapterulet>
+		<Ar>32,9</Ar>
+	</record>
+	<record>
+		<Kod>RA1091</Kod>
+		<Elado>Rachel  Gomez</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>10</Kerulet>
+		<Lift>Van</Lift>
+		<SzobakSzama>2</SzobakSzama>
+		<Alapterulet>49</Alapterulet>
+		<Ar>8,7</Ar>
+	</record>
+	<record>
+		<Kod>BE0846</Kod>
+		<Elado>Beth  Tucker</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>8</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>1</SzobakSzama>
+		<Alapterulet>36</Alapterulet>
+		<Ar>10,5</Ar>
+	</record>
+	<record>
+		<Kod>SH0740</Kod>
+		<Elado>Shari  Silva</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>7</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>2,5</SzobakSzama>
+		<Alapterulet>84</Alapterulet>
+		<Ar>25</Ar>
+	</record>
+	<record>
+		<Kod>DR1364</Kod>
+		<Elado>Drew  Rogers</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>13</Kerulet>
+		<Lift>Van</Lift>
+		<SzobakSzama>2,5</SzobakSzama>
+		<Alapterulet>58</Alapterulet>
+		<Ar>11,9</Ar>
+	</record>
+	<record>
+		<Kod>AR0236</Kod>
+		<Elado>Arturo  Francis</Elado>
+		<Oldal>Buda</Oldal>
+		<Kerulet>2</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>1</SzobakSzama>
+		<Alapterulet>57</Alapterulet>
+		<Ar>16</Ar>
+	</record>
+	<record>
+		<Kod>MA1330</Kod>
+		<Elado>Mable  Lindsey</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>13</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>1</SzobakSzama>
+		<Alapterulet>47</Alapterulet>
+		<Ar>11,3</Ar>
+	</record>
+	<record>
+		<Kod>SH1327</Kod>
+		<Elado>Shari  Silva</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>13</Kerulet>
+		<Lift>Van</Lift>
+		<SzobakSzama>2,5</SzobakSzama>
+		<Alapterulet>58</Alapterulet>
+		<Ar>11,6</Ar>
+	</record>
+	<record>
+		<Kod>RA0930</Kod>
+		<Elado>Rachel  Gomez</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>9</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>2</SzobakSzama>
+		<Alapterulet>62</Alapterulet>
+		<Ar>14,4</Ar>
+	</record>
+	<record>
+		<Kod>JE1383</Kod>
+		<Elado>Jenny  Garcia</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>13</Kerulet>
+		<Lift>Van</Lift>
+		<SzobakSzama>1</SzobakSzama>
+		<Alapterulet>27</Alapterulet>
+		<Ar>7,8</Ar>
+	</record>
+	<record>
+		<Kod>CO1048</Kod>
+		<Elado>Colleen  Warren</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>10</Kerulet>
+		<Lift>Van</Lift>
+		<SzobakSzama>2,5</SzobakSzama>
+		<Alapterulet>53</Alapterulet>
+		<Ar>10,4</Ar>
+	</record>
+	<record>
+		<Kod>PA0965</Kod>
+		<Elado>Pauline  Beck</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>9</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>1,5</SzobakSzama>
+		<Alapterulet>43</Alapterulet>
+		<Ar>12</Ar>
+	</record>
+	<record>
+		<Kod>SH1339</Kod>
+		<Elado>Shari  Silva</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>13</Kerulet>
+		<Lift>Van</Lift>
+		<SzobakSzama>3</SzobakSzama>
+		<Alapterulet>68</Alapterulet>
+		<Ar>14,6</Ar>
+	</record>
+	<record>
+		<Kod>JE0528</Kod>
+		<Elado>Jenny  Garcia</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>5</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>4</SzobakSzama>
+		<Alapterulet>120</Alapterulet>
+		<Ar>42,9</Ar>
+	</record>
+	<record>
+		<Kod>BE0986</Kod>
+		<Elado>Ben  Perez</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>9</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>2,5</SzobakSzama>
+		<Alapterulet>72</Alapterulet>
+		<Ar>17,9</Ar>
+	</record>
+	<record>
+		<Kod>CA0959</Kod>
+		<Elado>Cassandra  Franklin</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>9</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>3,5</SzobakSzama>
+		<Alapterulet>113</Alapterulet>
+		<Ar>36</Ar>
+	</record>
+	<record>
+		<Kod>EL0399</Kod>
+		<Elado>Elaine  Ellis</Elado>
+		<Oldal>Buda</Oldal>
+		<Kerulet>3</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>2</SzobakSzama>
+		<Alapterulet>69</Alapterulet>
+		<Ar>20,5</Ar>
+	</record>
+	<record>
+		<Kod>BE0269</Kod>
+		<Elado>Beth  Tucker</Elado>
+		<Oldal>Buda</Oldal>
+		<Kerulet>2</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>3</SzobakSzama>
+		<Alapterulet>90</Alapterulet>
+		<Ar>26</Ar>
+	</record>
+	<record>
+		<Kod>CA1359</Kod>
+		<Elado>Cassandra  Franklin</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>13</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>3</SzobakSzama>
+		<Alapterulet>95</Alapterulet>
+		<Ar>19,9</Ar>
+	</record>
+	<record>
+		<Kod>CO1840</Kod>
+		<Elado>Colleen  Warren</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>18</Kerulet>
+		<Lift>Van</Lift>
+		<SzobakSzama>2</SzobakSzama>
+		<Alapterulet>60</Alapterulet>
+		<Ar>8,9</Ar>
+	</record>
+	<record>
+		<Kod>CA0952</Kod>
+		<Elado>Cassandra  Franklin</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>9</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>2,5</SzobakSzama>
+		<Alapterulet>68</Alapterulet>
+		<Ar>20,8</Ar>
+	</record>
+	<record>
+		<Kod>CA1566</Kod>
+		<Elado>Cassandra  Franklin</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>15</Kerulet>
+		<Lift>Van</Lift>
+		<SzobakSzama>3</SzobakSzama>
+		<Alapterulet>71</Alapterulet>
+		<Ar>12,6</Ar>
+	</record>
+	<record>
+		<Kod>NE0627</Kod>
+		<Elado>Nellie  Joseph</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>6</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>1</SzobakSzama>
+		<Alapterulet>42</Alapterulet>
+		<Ar>14</Ar>
+	</record>
+	<record>
+		<Kod>GU0981</Kod>
+		<Elado>Guillermo  Potter</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>9</Kerulet>
+		<Lift>Van</Lift>
+		<SzobakSzama>1</SzobakSzama>
+		<Alapterulet>36</Alapterulet>
+		<Ar>10,3</Ar>
+	</record>
+	<record>
+		<Kod>LY1497</Kod>
+		<Elado>Lynette  Brewer</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>14</Kerulet>
+		<Lift>Van</Lift>
+		<SzobakSzama>3</SzobakSzama>
+		<Alapterulet>68</Alapterulet>
+		<Ar>13,5</Ar>
+	</record>
+	<record>
+		<Kod>RA1337</Kod>
+		<Elado>Rachel  Gomez</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>13</Kerulet>
+		<Lift>Van</Lift>
+		<SzobakSzama>2,5</SzobakSzama>
+		<Alapterulet>74</Alapterulet>
+		<Ar>13,9</Ar>
+	</record>
+	<record>
+		<Kod>LA0923</Kod>
+		<Elado>Lance  Yates</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>9</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>2,5</SzobakSzama>
+		<Alapterulet>58</Alapterulet>
+		<Ar>13,7</Ar>
+	</record>
+	<record>
+		<Kod>AR0366</Kod>
+		<Elado>Arturo  Francis</Elado>
+		<Oldal>Buda</Oldal>
+		<Kerulet>3</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>1,5</SzobakSzama>
+		<Alapterulet>38</Alapterulet>
+		<Ar>11,9</Ar>
+	</record>
+	<record>
+		<Kod>LU0965</Kod>
+		<Elado>Lula  Daniels</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>9</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>4</SzobakSzama>
+		<Alapterulet>160</Alapterulet>
+		<Ar>43</Ar>
+	</record>
+	<record>
+		<Kod>BE0221</Kod>
+		<Elado>Bethany  Pena</Elado>
+		<Oldal>Buda</Oldal>
+		<Kerulet>2</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>2</SzobakSzama>
+		<Alapterulet>63</Alapterulet>
+		<Ar>17,9</Ar>
+	</record>
+	<record>
+		<Kod>RO0499</Kod>
+		<Elado>Robert  Munoz</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>4</Kerulet>
+		<Lift>Van</Lift>
+		<SzobakSzama>2,5</SzobakSzama>
+		<Alapterulet>72</Alapterulet>
+		<Ar>12</Ar>
+	</record>
+	<record>
+		<Kod>SH0987</Kod>
+		<Elado>Shari  Silva</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>9</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>2</SzobakSzama>
+		<Alapterulet>71</Alapterulet>
+		<Ar>16,5</Ar>
+	</record>
+	<record>
+		<Kod>CI0666</Kod>
+		<Elado>Cindy  Becker</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>6</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>1</SzobakSzama>
+		<Alapterulet>50</Alapterulet>
+		<Ar>16</Ar>
+	</record>
+	<record>
+		<Kod>GU0146</Kod>
+		<Elado>Guillermo  Potter</Elado>
+		<Oldal>Buda</Oldal>
+		<Kerulet>1</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>1,5</SzobakSzama>
+		<Alapterulet>40</Alapterulet>
+		<Ar>11</Ar>
+	</record>
+	<record>
+		<Kod>SA1391</Kod>
+		<Elado>Sandra  Floyd</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>13</Kerulet>
+		<Lift>Van</Lift>
+		<SzobakSzama>2,5</SzobakSzama>
+		<Alapterulet>55</Alapterulet>
+		<Ar>12,8</Ar>
+	</record>
+	<record>
+		<Kod>BI0630</Kod>
+		<Elado>Billie  Chandler</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>6</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>1</SzobakSzama>
+		<Alapterulet>52</Alapterulet>
+		<Ar>17,7</Ar>
+	</record>
+	<record>
+		<Kod>IS0470</Kod>
+		<Elado>Isabel  Cross</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>4</Kerulet>
+		<Lift>Van</Lift>
+		<SzobakSzama>2,5</SzobakSzama>
+		<Alapterulet>59</Alapterulet>
+		<Ar>11</Ar>
+	</record>
+	<record>
+		<Kod>BE0122</Kod>
+		<Elado>Bernadette  Page</Elado>
+		<Oldal>Buda</Oldal>
+		<Kerulet>1</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>2</SzobakSzama>
+		<Alapterulet>70</Alapterulet>
+		<Ar>29,9</Ar>
+	</record>
+	<record>
+		<Kod>AN1357</Kod>
+		<Elado>Andrew  Meyer</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>13</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>1,5</SzobakSzama>
+		<Alapterulet>42</Alapterulet>
+		<Ar>11,5</Ar>
+	</record>
+	<record>
+		<Kod>LE1390</Kod>
+		<Elado>Lee  Mack</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>13</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>2</SzobakSzama>
+		<Alapterulet>57</Alapterulet>
+		<Ar>18,6</Ar>
+	</record>
+	<record>
+		<Kod>BO1390</Kod>
+		<Elado>Bobbie  Ryan</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>13</Kerulet>
+		<Lift>Van</Lift>
+		<SzobakSzama>2</SzobakSzama>
+		<Alapterulet>74</Alapterulet>
+		<Ar>15,9</Ar>
+	</record>
+	<record>
+		<Kod>TR1315</Kod>
+		<Elado>Trevor  Jones</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>13</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>1</SzobakSzama>
+		<Alapterulet>29</Alapterulet>
+		<Ar>8,3</Ar>
+	</record>
+	<record>
+		<Kod>ER0897</Kod>
+		<Elado>Eric  Rose</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>8</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>3</SzobakSzama>
+		<Alapterulet>110</Alapterulet>
+		<Ar>21,9</Ar>
+	</record>
+	<record>
+		<Kod>DO0765</Kod>
+		<Elado>Donna  Reid</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>7</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>1</SzobakSzama>
+		<Alapterulet>36</Alapterulet>
+		<Ar>8,2</Ar>
+	</record>
+	<record>
+		<Kod>IV0288</Kod>
+		<Elado>Ivan  Adkins</Elado>
+		<Oldal>Buda</Oldal>
+		<Kerulet>2</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>2</SzobakSzama>
+		<Alapterulet>99</Alapterulet>
+		<Ar>35</Ar>
+	</record>
+	<record>
+		<Kod>BI0996</Kod>
+		<Elado>Billie  Chandler</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>9</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>1</SzobakSzama>
+		<Alapterulet>34</Alapterulet>
+		<Ar>8,9</Ar>
+	</record>
+	<record>
+		<Kod>JE0981</Kod>
+		<Elado>Jenny  Garcia</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>9</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>1,5</SzobakSzama>
+		<Alapterulet>40</Alapterulet>
+		<Ar>10,9</Ar>
+	</record>
+	<record>
+		<Kod>AN0548</Kod>
+		<Elado>Andrew  Meyer</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>5</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>2,5</SzobakSzama>
+		<Alapterulet>84</Alapterulet>
+		<Ar>29,5</Ar>
+	</record>
+	<record>
+		<Kod>BR1334</Kod>
+		<Elado>Brooke  Horton</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>13</Kerulet>
+		<Lift>Van</Lift>
+		<SzobakSzama>2</SzobakSzama>
+		<Alapterulet>58</Alapterulet>
+		<Ar>11,8</Ar>
+	</record>
+	<record>
+		<Kod>MA1319</Kod>
+		<Elado>Max  Rodgers</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>13</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>1</SzobakSzama>
+		<Alapterulet>24</Alapterulet>
+		<Ar>6,2</Ar>
+	</record>
+	<record>
+		<Kod>ER0938</Kod>
+		<Elado>Eric  Rose</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>9</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>2,5</SzobakSzama>
+		<Alapterulet>71</Alapterulet>
+		<Ar>16,9</Ar>
+	</record>
+	<record>
+		<Kod>RA1326</Kod>
+		<Elado>Rachel  Gomez</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>13</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>5</SzobakSzama>
+		<Alapterulet>70</Alapterulet>
+		<Ar>27</Ar>
+	</record>
+	<record>
+		<Kod>MA0669</Kod>
+		<Elado>Max  Rodgers</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>6</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>1</SzobakSzama>
+		<Alapterulet>45</Alapterulet>
+		<Ar>12</Ar>
+	</record>
+	<record>
+		<Kod>RO0978</Kod>
+		<Elado>Robert  Munoz</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>9</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>1,5</SzobakSzama>
+		<Alapterulet>52</Alapterulet>
+		<Ar>16,5</Ar>
+	</record>
+	<record>
+		<Kod>DO0926</Kod>
+		<Elado>Don  Gonzales</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>9</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>2</SzobakSzama>
+		<Alapterulet>58</Alapterulet>
+		<Ar>18,5</Ar>
+	</record>
+	<record>
+		<Kod>CE1134</Kod>
+		<Elado>Cecilia  Manning</Elado>
+		<Oldal>Buda</Oldal>
+		<Kerulet>11</Kerulet>
+		<Lift>Van</Lift>
+		<SzobakSzama>3</SzobakSzama>
+		<Alapterulet>65</Alapterulet>
+		<Ar>11,5</Ar>
+	</record>
+	<record>
+		<Kod>CI0865</Kod>
+		<Elado>Cindy  Becker</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>8</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>2,5</SzobakSzama>
+		<Alapterulet>97</Alapterulet>
+		<Ar>20</Ar>
+	</record>
+	<record>
+		<Kod>BR1356</Kod>
+		<Elado>Brooke  Horton</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>13</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>1</SzobakSzama>
+		<Alapterulet>23</Alapterulet>
+		<Ar>7</Ar>
+	</record>
+	<record>
+		<Kod>IV1790</Kod>
+		<Elado>Ivan  Adkins</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>17</Kerulet>
+		<Lift>Van</Lift>
+		<SzobakSzama>3</SzobakSzama>
+		<Alapterulet>78</Alapterulet>
+		<Ar>11,9</Ar>
+	</record>
+	<record>
+		<Kod>CH1017</Kod>
+		<Elado>Christina  Fuller</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>10</Kerulet>
+		<Lift>Van</Lift>
+		<SzobakSzama>1</SzobakSzama>
+		<Alapterulet>36</Alapterulet>
+		<Ar>6,9</Ar>
+	</record>
+	<record>
+		<Kod>PE1588</Kod>
+		<Elado>Peter  Hodges</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>15</Kerulet>
+		<Lift>Van</Lift>
+		<SzobakSzama>2</SzobakSzama>
+		<Alapterulet>55</Alapterulet>
+		<Ar>10,5</Ar>
+	</record>
+	<record>
+		<Kod>BE1367</Kod>
+		<Elado>Ben  Perez</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>13</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>2</SzobakSzama>
+		<Alapterulet>50</Alapterulet>
+		<Ar>14,5</Ar>
+	</record>
+	<record>
+		<Kod>AN1358</Kod>
+		<Elado>Andrew  Meyer</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>13</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>1</SzobakSzama>
+		<Alapterulet>44</Alapterulet>
+		<Ar>13</Ar>
+	</record>
+	<record>
+		<Kod>PE0719</Kod>
+		<Elado>Peter  Hodges</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>7</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>2</SzobakSzama>
+		<Alapterulet>57</Alapterulet>
+		<Ar>14,7</Ar>
+	</record>
+	<record>
+		<Kod>BI0965</Kod>
+		<Elado>Billie  Chandler</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>9</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>3</SzobakSzama>
+		<Alapterulet>105</Alapterulet>
+		<Ar>29</Ar>
+	</record>
+	<record>
+		<Kod>RO0851</Kod>
+		<Elado>Robert  Munoz</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>8</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>1</SzobakSzama>
+		<Alapterulet>43</Alapterulet>
+		<Ar>11</Ar>
+	</record>
+	<record>
+		<Kod>SA0821</Kod>
+		<Elado>Salvador  Bass</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>8</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>1</SzobakSzama>
+		<Alapterulet>27</Alapterulet>
+		<Ar>8,6</Ar>
+	</record>
+	<record>
+		<Kod>SA1363</Kod>
+		<Elado>Salvador  Bass</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>13</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>2</SzobakSzama>
+		<Alapterulet>39</Alapterulet>
+		<Ar>16,9</Ar>
+	</record>
+	<record>
+		<Kod>BO1318</Kod>
+		<Elado>Bobbie  Ryan</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>13</Kerulet>
+		<Lift>Van</Lift>
+		<SzobakSzama>4</SzobakSzama>
+		<Alapterulet>75</Alapterulet>
+		<Ar>16</Ar>
+	</record>
+	<record>
+		<Kod>AN0232</Kod>
+		<Elado>Andrew  Meyer</Elado>
+		<Oldal>Buda</Oldal>
+		<Kerulet>2</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>2</SzobakSzama>
+		<Alapterulet>60</Alapterulet>
+		<Ar>19,9</Ar>
+	</record>
+	<record>
+		<Kod>DR1337</Kod>
+		<Elado>Drew  Rogers</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>13</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>2</SzobakSzama>
+		<Alapterulet>96</Alapterulet>
+		<Ar>31,5</Ar>
+	</record>
+	<record>
+		<Kod>IS0934</Kod>
+		<Elado>Isabel  Cross</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>9</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>2</SzobakSzama>
+		<Alapterulet>61</Alapterulet>
+		<Ar>15,7</Ar>
+	</record>
+	<record>
+		<Kod>DE1351</Kod>
+		<Elado>Della  Jensen</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>13</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>1</SzobakSzama>
+		<Alapterulet>26</Alapterulet>
+		<Ar>7,3</Ar>
+	</record>
+	<record>
+		<Kod>LO0948</Kod>
+		<Elado>Lorraine  Gibson</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>9</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>1</SzobakSzama>
+		<Alapterulet>30</Alapterulet>
+		<Ar>9,4</Ar>
+	</record>
+	<record>
+		<Kod>SH1338</Kod>
+		<Elado>Shari  Silva</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>13</Kerulet>
+		<Lift>Van</Lift>
+		<SzobakSzama>3,5</SzobakSzama>
+		<Alapterulet>80</Alapterulet>
+		<Ar>16,8</Ar>
+	</record>
+	<record>
+		<Kod>DR1354</Kod>
+		<Elado>Drew  Rogers</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>13</Kerulet>
+		<Lift>Van</Lift>
+		<SzobakSzama>1</SzobakSzama>
+		<Alapterulet>27</Alapterulet>
+		<Ar>7,2</Ar>
+	</record>
+	<record>
+		<Kod>IR0944</Kod>
+		<Elado>Iris  Underwood</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>9</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>3</SzobakSzama>
+		<Alapterulet>96</Alapterulet>
+		<Ar>29,9</Ar>
+	</record>
+	<record>
+		<Kod>DR0960</Kod>
+		<Elado>Drew  Rogers</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>9</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>2</SzobakSzama>
+		<Alapterulet>72</Alapterulet>
+		<Ar>16,8</Ar>
+	</record>
+	<record>
+		<Kod>JE1430</Kod>
+		<Elado>Jenny  Garcia</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>14</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>1</SzobakSzama>
+		<Alapterulet>29</Alapterulet>
+		<Ar>8,5</Ar>
+	</record>
+	<record>
+		<Kod>LO0862</Kod>
+		<Elado>Lorraine  Gibson</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>8</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>3</SzobakSzama>
+		<Alapterulet>100</Alapterulet>
+		<Ar>15,8</Ar>
+	</record>
+	<record>
+		<Kod>EL0590</Kod>
+		<Elado>Elaine  Ellis</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>5</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>2</SzobakSzama>
+		<Alapterulet>81</Alapterulet>
+		<Ar>25,9</Ar>
+	</record>
+	<record>
+		<Kod>ER0866</Kod>
+		<Elado>Eric  Rose</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>8</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>1</SzobakSzama>
+		<Alapterulet>31</Alapterulet>
+		<Ar>7,9</Ar>
+	</record>
+	<record>
+		<Kod>IS0528</Kod>
+		<Elado>Isabel  Cross</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>5</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>2</SzobakSzama>
+		<Alapterulet>62</Alapterulet>
+		<Ar>27,4</Ar>
+	</record>
+	<record>
+		<Kod>BI1347</Kod>
+		<Elado>Billie  Chandler</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>13</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>1</SzobakSzama>
+		<Alapterulet>40</Alapterulet>
+		<Ar>16,5</Ar>
+	</record>
+	<record>
+		<Kod>WO0991</Kod>
+		<Elado>Woodrow  Colon</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>9</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>1</SzobakSzama>
+		<Alapterulet>40</Alapterulet>
+		<Ar>11,5</Ar>
+	</record>
+	<record>
+		<Kod>ED1192</Kod>
+		<Elado>Edwin  Malone</Elado>
+		<Oldal>Buda</Oldal>
+		<Kerulet>11</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>3</SzobakSzama>
+		<Alapterulet>105</Alapterulet>
+		<Ar>29</Ar>
+	</record>
+	<record>
+		<Kod>PA1384</Kod>
+		<Elado>Paulette  Spencer</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>13</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>2</SzobakSzama>
+		<Alapterulet>54</Alapterulet>
+		<Ar>15,5</Ar>
+	</record>
+	<record>
+		<Kod>CA1420</Kod>
+		<Elado>Cassandra  Franklin</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>14</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>1</SzobakSzama>
+		<Alapterulet>38</Alapterulet>
+		<Ar>10,5</Ar>
+	</record>
+	<record>
+		<Kod>AL1364</Kod>
+		<Elado>Allan  Ramos</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>13</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>3</SzobakSzama>
+		<Alapterulet>77</Alapterulet>
+		<Ar>36</Ar>
+	</record>
+	<record>
+		<Kod>ER1359</Kod>
+		<Elado>Eric  Rose</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>13</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>1</SzobakSzama>
+		<Alapterulet>25</Alapterulet>
+		<Ar>6,6</Ar>
+	</record>
+	<record>
+		<Kod>CA0657</Kod>
+		<Elado>Cassandra  Franklin</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>6</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>4,5</SzobakSzama>
+		<Alapterulet>153</Alapterulet>
+		<Ar>37,3</Ar>
+	</record>
+	<record>
+		<Kod>DE0967</Kod>
+		<Elado>Della  Jensen</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>9</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>2,5</SzobakSzama>
+		<Alapterulet>80</Alapterulet>
+		<Ar>18,2</Ar>
+	</record>
+	<record>
+		<Kod>SH0895</Kod>
+		<Elado>Shari  Silva</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>8</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>2</SzobakSzama>
+		<Alapterulet>77</Alapterulet>
+		<Ar>16,5</Ar>
+	</record>
+	<record>
+		<Kod>AU2181</Kod>
+		<Elado>Austin  Reynolds</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>21</Kerulet>
+		<Lift>Van</Lift>
+		<SzobakSzama>2</SzobakSzama>
+		<Alapterulet>35</Alapterulet>
+		<Ar>8</Ar>
+	</record>
+	<record>
+		<Kod>DA0914</Kod>
+		<Elado>Dan  Peterson</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>9</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>2</SzobakSzama>
+		<Alapterulet>82</Alapterulet>
+		<Ar>18</Ar>
+	</record>
+	<record>
+		<Kod>EL1511</Kod>
+		<Elado>Elbert  Klein</Elado>
+		<Oldal>Pest</Oldal>
+		<Kerulet>15</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>1</SzobakSzama>
+		<Alapterulet>32</Alapterulet>
+		<Ar>11</Ar>
+	</record>
+	<record>
+		<Kod>NE1267</Kod>
+		<Elado>Nellie  Joseph</Elado>
+		<Oldal>Buda</Oldal>
+		<Kerulet>12</Kerulet>
+		<Lift>Nincs</Lift>
+		<SzobakSzama>3</SzobakSzama>
+		<Alapterulet>68</Alapterulet>
+		<Ar>39</Ar>
+	</record>
+</data-set>
