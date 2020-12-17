@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace IRF_Projekt_Beadando
 {
-    public class Data
+    public class FlatData
     {
         public string Kod { get; set; }
 
@@ -14,7 +14,7 @@ namespace IRF_Projekt_Beadando
 
         public string Oldal { get; set; }
 
-        public int kerület { get; set; }
+        public int Kerulet { get; set; }
 
         public bool Lift { get; set; }
 
